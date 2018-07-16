@@ -8,7 +8,7 @@
 
 [jd-gui](http://jd.benow.ca/)
 
-[ procyon](www.baidu.com)
+[ procyon](https://bitbucket.org/mstrobel/procyon)
 
 
 
