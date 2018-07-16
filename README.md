@@ -24,6 +24,7 @@
 *把apk解压缩后，得到classes.dex*
 *Mac在终端商执行.sh文件*
 > d2j-dex2jar classes.dex
+
 *如果出现Permission denied权限问题，可以在文件夹用以下命令求情权限*
 >chmod a+x *.sh
 
