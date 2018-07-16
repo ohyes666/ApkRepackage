@@ -17,7 +17,7 @@
 ### 2.反编译
 
 **反编译apk资源文件**
-> apktool d demo.apk
+> java -jar apktool_2.3.3.jar d *.apk
 
 **反编译代码**
 
